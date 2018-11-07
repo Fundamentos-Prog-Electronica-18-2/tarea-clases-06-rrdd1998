@@ -1,0 +1,8 @@
+
+Los parciales de una estudiantes en dos asignaturas son de la siguiente manera:
+Matemáticas - lecciones:20;tareas:15;examenes:17,5
+Literatura - lecciones:10;tareas:20;examenes:19,5
+
+Cuál es la asignatura que el estudiantes tiene mejor promedio?
+
+Realizar una miniespecificacion.

@@ -1,0 +1,27 @@
+1-inicio
+2-matematica (3) d[0-n]
+3-literatura (3) d[0-n]
+4-promedio1, matematica
+5-promedio2, literatura
+6-suma1,d [0-n]
+7-suma2,d [0-n]
+8-matematica [20,15,17,5]
+9-literartura [10,20,19.5]
+10-contador <- 0
+
+11-mientras matematica <3 entonces
+12-	suma1= matematica (contador)
+13-	suma2=literatura (contador)
+14-       contador <-=1
+15-   fin mientras 
+
+16- promedio1 = suma1/3
+17- promedio2= suma2/3
+ 
+18-si promedio1>promedio2 entonces
+19-	<<el promedio mayor es matematica<<;
+20-si no << el promedio mayor es literatur<<;
+
+21-fin si;
+
+22-fin 
